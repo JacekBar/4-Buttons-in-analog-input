@@ -1,19 +1,19 @@
 int sensor0 = A0;
-int s1[] = {974, 976};      //values determined by calculations
-int s2[] = {920, 924};      //see Input Values.xlsx
-int s3[] = {812, 819};      //for circuit see Circuit.png
-int s4[] = {678, 687};      //here
-int s12[] = {989, 990};     //R0 = 1 kΩ
-int s13[] = {982, 983};     //R1 = 2,2 kΩ
-int s14[] = {978, 980};     //R2 = 5,1 kΩ
-int s23[] = {949, 952};     //R3 = 10 kΩ
-int s24[] = {937, 940};     //R4 = 20 kΩ
-int s34[] = {873, 878};     
-int s123[] = {993, 994};    
-int s124[] = {991, 992};
-int s134[] = {985, 986};
-int s234[] = {958, 961};
-int s1234[] = {995, 996};
+int s1[] = {314, 327};      //values determined by calculations
+int s2[] = {163, 173};      //see Input Values.xlsx
+int s3[] = {90, 97};        //for circuit see Circuit.png
+int s4[] = {46, 52};        //here
+int s12[] = {397, 411};     //R0 = 1 kΩ
+int s13[] = {359, 372};     //R1 = 2,2 kΩ
+int s14[] = {337, 350};     //R2 = 5,1 kΩ
+int s23[] = {229, 240};     //R3 = 10 kΩ
+int s24[] = {197, 208};     //R4 = 20 kΩ
+int s34[] = {130, 138};     
+int s123[] = {432, 446};    
+int s124[] = {415, 429};
+int s134[] = {379, 393};
+int s234[] = {258, 269};
+int s1234[] = {448, 462};
 
 
 
